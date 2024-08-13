@@ -1,4 +1,4 @@
-# hello-world
+# hello-world or bonjour le monde
 tradition 
 <ul><li><strong>Python</strong>:<pre><code class="python">print("Bonjour le monde")</code></pre></li><li><strong>Java</strong>:<pre><code class="java">public class HelloWorld {
     public static void main(String[] args) {
